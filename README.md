@@ -25,5 +25,7 @@ It analyzes business sales data to track performance across regions, product cat
 - KPI calculation logic
 - Dashboard structuring
 - Business-focused visualization
+## 🖼 Dashboard Preview
+![Dashboard Preview](dashboard.png)
 
 
